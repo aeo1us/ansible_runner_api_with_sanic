@@ -1,0 +1,11 @@
+.remote-sync.json
+.ftpconfig
+.DS_Store
+.idea/
+.git/
+.vscode/
+venv/
+__pychche__
+
+*.pyc
+*.log
